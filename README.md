@@ -5,4 +5,4 @@ It only includes the user registration feature.
 
 Below, you can see the Postman test result of the user registration process:
 
-![Postman Result](postman_result.png)
+![Postman Result](cmsDemo/postman_result.png)
